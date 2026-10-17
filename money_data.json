@@ -1,0 +1,27 @@
+{
+    "starting_balance": 210000.0,
+    "transactions": [
+        {
+            "type": "Expense",
+            "amount": 2100.0,
+            "category": "Food",
+            "description": "",
+            "date": "17 Oct 2026, 03:07 AM"
+        },
+        {
+            "type": "Expense",
+            "amount": 2100.0,
+            "category": "Food",
+            "description": "bread",
+            "date": "17 Oct 2026, 03:07 AM"
+        },
+        {
+            "type": "Expense",
+            "amount": 2100.0,
+            "category": "Food",
+            "description": "bread",
+            "date": "17 Oct 2026, 03:07 AM"
+        }
+    ],
+    "initialized": true
+}
